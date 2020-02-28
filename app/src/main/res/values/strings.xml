@@ -3,6 +3,8 @@
     <string name="action_settings">Settings</string>
     <string name="loading">Loading…</string>
     <string name="zip_code_india_only">Zip code (India only)</string>
+    <string name="load_forecast">Load Forecast</string>
+    <string name="load_weather">Load weather</string>
 
     <string-array name="unitsDisplayName">
         <item>Celsius</item>
